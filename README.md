@@ -63,76 +63,116 @@ npm run preview
 
 ## 🎤 Guión de Exposición — 2 Personas
 
-Duración estimada: **12–15 minutos**. Cada uno habla ~6–7 minutos.
+Duración estimada: **12–15 min**. Cada uno habla ~6–7 min.
 
-### 📌 Antes de empezar
+### 📌 Cómo funciona
 
-- Abrir el dashboard en un navegador a pantalla completa
-- Tener las fuentes oficiales a mano por si preguntan
-- **Speaker 1** maneja el sidebar las primeras 4 vistas
-- **Speaker 2** toma el control desde Gestión hasta el final
-
----
-
-### Speaker 1 — Contexto, Gobernanza y Metas
-**Vistas: Inicio → Aseguramiento → Calidad → Planeación**
-
-**"Hola a todos. Hoy vamos a analizar cómo Microsoft asegura que sus compromisos de responsabilidad social sean reales, y no solo marketing. Microsoft tiene ingresos por 245 mil millones de dólares y 228 mil empleados. Cuando una empresa así promete ser 'carbon negative', vale la pena entender si realmente lo está logrando."**
-
-**"Acá vemos algunos anticipos: 34 GW de energía renovable contratada, 50 millones de metros cúbicos de agua repuesta, 15.849 acres protegidos. Hoy vamos a explicar cada uno de estos números. Pero primero: ¿quién asegura que no sean inventados?"**
-
-> *(Avanza a Aseguramiento)*
-
-**"Microsoft tiene una estructura de gobernanza clara. Satya Nadella es el CEO, pero quien supervisa todos los compromisos de RSC es Brad Smith, el presidente. Debajo de él está Melanie Nakagawa, la Chief Sustainability Officer. Y existe un comité independiente del Board dedicado exclusivamente a temas ambientales, sociales y de políticas públicas."**
-
-**"El punto clave para la credibilidad es la auditoría externa. Deloitte & Touche revisa las emisiones de Scope 1 y 2. No es una auditoría financiera completa, pero es 'limited assurance' —un tercero independiente confirma que los números son razonables. Microsoft además reporta bajo GRI, SASB, TCFD y CDP, que son los estándares internacionales más exigentes."**
-
-> *(Avanza a Calidad)*
-
-**"En certificaciones, Microsoft tiene ISO 50001 para gestión de energía en sus datacenters, reporta bajo GRI y SASB, participa en el Carbon Disclosure Project, y cumple con la ley California AB 1305. Algo importante: si cambia la forma de medir, recalculan todos los datos históricos para que las series sean comparables. Eso es buena práctica."**
-
-> *(Avanza a Planeación)*
-
-**"Ahora, ¿hacia dónde va Microsoft? En 2020 hicieron una promesa enorme: para 2030, ser carbon negative, water positive, zero waste, y proteger más tierra de la que usan. La estrategia tiene tres pilares: reducir su propia huella, ayudar a clientes a ser sostenibles, e impactar el sistema global."**
-
-**"Los resultados parciales son concretos: en carbono, 34 GW de renovables contratados. En agua, 50 millones de m³ repuestos y 1.5 millones de personas con acceso a agua limpia. En residuos, 88.1% de desvío y 90.9% de servidores reciclados. En ecosistemas, ya excedieron la meta de 2025 con 15.849 acres protegidos. Estamos a mitad de camino y el progreso es real, aunque como verán a continuación, hay desafíos importantes."**
+- **Speaker 1** habla en Inicio, Aseguramiento, Calidad, Planeación
+- **Speaker 2** habla en Gestión y Conclusiones
+- El que NO habla, maneja el sidebar para pasar las vistas
+- No leer textual — tener los puntos clave en la cabeza y hablar natural
 
 ---
 
-### Speaker 2 — Resultados Concretos y Análisis Crítico
-**Vistas: Gestión → Conclusiones**
+### Speaker 1 — Vos empezás (vistas: Inicio → Aseguramiento → Calidad → Planeación)
 
-> *(Avanza a Gestión)*
+**▶️ Vista INICIO** (está abierta)
 
-**"Gracias. Ahora entramos en los números duros, todos verificados contra el reporte oficial de Microsoft 2025."**
+Decí algo así:
 
-**"Empecemos por carbono. Las emisiones se dividen en tres alcances —están explicados en estas cajitas. Scope 1 son emisiones directas: lo que Microsoft quema o produce. Scope 2 es la electricidad que compran. Y Scope 3 es la cadena de valor: proveedores, viajes de empleados, y el uso que los clientes hacen de Azure o Xbox. Scope 3 representa más del 97% del total."**
+> *"Hola. Hoy vamos a ver cómo Microsoft asegura que sus compromisos de responsabilidad social sean reales. Microsoft tiene 245 mil millones de dólares de ingresos y 228 mil empleados. Cuando una empresa así dice que va a ser 'carbon negative', tenemos que ver si es cierto o es solo marketing."*
 
-**"Dato clave: las emisiones directas —Scope 1 y 2— se redujeron 29.9% desde 2020. Eso es un logro real. PERO las emisiones totales aumentaron 23.4%. ¿Por qué? Porque Scope 3 subió 26%. La razón: el crecimiento masivo de datacenters para IA y cloud. Azure es el negocio que más crece y también el que más emisiones genera. Es la paradoja de Microsoft."**
+Señalá los cuadritos de números en la pantalla:
 
-**"Acá vemos las remociones de carbono contratadas: 21.9 millones de toneladas métricas. Incluyen créditos para neutralidad del año, para la meta 2030 y para después del 2030. La crítica es que depender de offsets puede ser una forma de no reducir realmente."**
+> *"Acá vemos números: 34 gigawatts de energía renovable, 50 millones de metros cúbicos de agua repuesta, 15.849 acres protegidos. Hoy vamos a explicar cada uno."*
 
-**"En agua, el crecimiento es enorme: pasaron de reponer 2.84 millones de metros cúbicos en 2020 a 50 millones en 2024. 17 veces más. Destaca la planta de Quincy, Washington, que redujo el consumo de agua potable en 97% usando agua reciclada."**
+**▶️ Ahora hacé clic en "Aseguramiento"** (sidebar derecho)
 
-**"En residuos, 88.1% de desvío —muy cerca del 90% meta. Reciclabilidad de empaques al 94.8%, superando la meta del 80%. Y 90.9% de servidores reciclados, un año antes de lo previsto."**
+Decí:
 
-**"En ecosistemas, excedieron la meta por 30%: 15.849 acres protegidos contra una huella de 11.900. Y usan IA para monitorear la Amazonía con más de 80% de precisión a través del proyecto Guacamaya."**
+> *"Pero primero: ¿quién controla que estos números no sean inventados? Microsoft tiene una estructura clara. Satya Nadella es el CEO. Brad Smith es el presidente y supervisa todo. Melanie Nakagawa es la Chief Sustainability Officer. Y hay un comité del Board que solo ve temas ambientales y sociales."*
 
-**"Finalmente, en impacto social: la demanda de talento verde crece al 11.6% pero la oferta solo al 5.6%. Hay un gap importante. Microsoft lleva $793 millones asignados de su Climate Innovation Fund de $1,000 millones."**
+Señalá el cuadro de "Aseguramiento Externo":
 
-> *(Avanza a Conclusiones)*
+> *"Lo más importante para la credibilidad: Deloitte audita las emisiones. No es una auditoría contable, pero un tercero independiente revisa los números."*
 
-**"Y ahora, la pregunta que importa: ¿Microsoft realmente lo está haciendo bien? La respuesta es: sí, pero con matices."**
+> *"Microsoft además reporta bajo GRI, SASB, TCFD, CDP —los estándares internacionales más exigentes."*
 
-**"Fortalezas: metas basadas en ciencia, verificación externa, un comité de Board dedicado a ESG, resultados medibles en todas las áreas, y transparencia total bajo estándares internacionales."**
+**▶️ Ahora hacé clic en "Calidad"**
 
-**"Desafíos: el más grave es que las emisiones Scope 3 no dejan de subir. Dependencia de offsets. Consumo de agua en regiones con estrés hídrico. Controversias éticas como contratos militares. La brecha entre ambición y realidad se resume en un número: las emisiones totales subieron 23.4% desde el baseline."**
+Decí:
 
-**"Nuestras recomendaciones: Microsoft necesita metas vinculantes para proveedores en Scope 3, innovar en refrigeración con cero agua, y alinear el crecimiento del negocio con la reducción absoluta de emisiones."**
+> *"Microsoft tiene certificación ISO 50001 para gestión de energía en sus datacenters. Reporta con GRI y SASB. Participa en CDP. Y si cambia la forma de medir, recalculan todo para atrás para que los números sean comparables."*
 
-**"Para cerrar: Microsoft tiene un compromiso genuino con la RSC, con estructuras sólidas y métricas transparentes. Pero el verdadero desafío es alinear el crecimiento —especialmente IA y cloud— con la reducción absoluta de emisiones. Como aprendimos en esta materia, la RSC no es un destino, es un proceso continuo. Y las empresas más grandes tienen la responsabilidad de liderar, aunque eso signifique tomar decisiones difíciles que van contra el beneficio inmediato."**
+**▶️ Ahora hacé clic en "Planeación"**
 
-**"Gracias. ¿Preguntas?"**
+Decí:
+
+> *"Ahora, ¿hacia dónde va Microsoft? En 2020 prometieron: para 2030 ser carbon negative, water positive, zero waste, y proteger más tierra de la que usan. Estamos a mitad de camino."*
+
+Señalá las barras de progreso de cada meta:
+
+> *"En carbono: 34 GW de renovables. En agua: 50 millones de m³ repuestos. En residuos: 88% de desvío. En ecosistemas: ya cumplieron."*
+
+> *"El progreso es real, pero hay desafíos. Ahora mi compañero va a mostrar los números duros."*
+
+**✅ Hasta acá llegás vos. Pasá la palabra al Speaker 2.**
+
+---
+
+### Speaker 2 — Ahora vos (vistas: Gestión → Conclusiones)
+
+**▶️ Hacé clic en "Gestión"**
+
+Decí:
+
+> *"Gracias. Ahora los números duros, todos contra el reporte oficial de Microsoft."*
+
+Señalá las **3 cajitas azules** que explican los Scopes:
+
+> *"Primero: las emisiones se dividen en tres tipos. Scope 1 es lo que Microsoft emite directamente. Scope 2 es la electricidad que compran. Scope 3 es la cadena de valor —proveedores, clientes usando la nube, viajes. Scope 3 es más del 97% del total."*
+
+Señalá el **gráfico de barras**:
+
+> *"Dato clave: Scope 1 y 2 se redujeron 29.9% desde 2020. PERO las emisiones totales subieron 23.4%. ¿Por qué? Porque Scope 3 subió 26%. El negocio de IA y cloud crece tan rápido que las reducciones no alcanzan."*
+
+Señalá el **gráfico de torta** (remociones):
+
+> *"Acá las remociones de carbono contratadas: 21.9 millones de toneladas. La crítica es que depender de offsets puede ser una forma de no reducir realmente."*
+
+Ahora **bajá un poco** a la sección de agua:
+
+> *"En agua: pasaron de reponer 2.8 millones de metros cúbicos a 50 millones. Crecieron 17 veces."*
+
+**Residuos:**
+
+> *"88% de desvío de residuos. 94.8% de empaques reciclables. 90.9% de servidores reciclados."*
+
+**Ecosistemas:**
+
+> *"15.849 acres protegidos, excedieron la meta."*
+
+**Impacto social:**
+
+> *"Demanda de talento verde crece al 11.6% pero oferta solo al 5.6%. Hay un gap. Llevan $793 millones del Climate Innovation Fund."*
+
+**▶️ Hacé clic en "Conclusiones"**
+
+Decí:
+
+> *"Ahora: ¿Microsoft lo está haciendo bien? Sí, pero con problemas."*
+
+> *"Fortalezas: metas con ciencia, auditoría externa, resultados medibles."*
+
+> *"Problemas: Scope 3 no para de subir. Dependencia de offsets. Agua en zonas con estrés hídrico. Controversias como contratos militares."*
+
+> *"Resumen: las emisiones totales SUBIERON 23.4% desde 2020."*
+
+> *"Recomendaciones: que pongan metas para proveedores, que innoven en refrigeración con menos agua, y que alineen el crecimiento con la reducción real de emisiones."*
+
+> *"Para cerrar: Microsoft tiene un compromiso real, con buenas estructuras. Pero el desafío es que el negocio de IA y cloud no siga aumentando las emisiones. La RSC no es un destino, es un proceso."*
+
+> *"Gracias. ¿Preguntas?"*
 
 ---
 
