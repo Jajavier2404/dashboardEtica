@@ -187,8 +187,22 @@ export default function Management() {
       {/* ============================================================ */}
       <SectionH icon={TrendingDown} label="1. Carbono — Huella de Emisiones" color="#0078D4" />
       <p style={{ fontSize: 12, color: '#4A4A58', marginBottom: 14, lineHeight: 1.6 }}>
-        Emisiones GHG por alcance con línea de tendencia total. Scope 3 representa más del 97%.
+        Las emisiones se clasifican en tres alcances (Scopes) según el GHG Protocol:
       </p>
+      <div className="g3" style={{ marginBottom: 16, gap: 8 }}>
+        <div className="cbox" style={{ padding: '10px 14px' }}>
+          <div style={{ fontSize: 11, fontWeight: 700, color: '#0078D4' }}>Scope 1 — Directas</div>
+          <div style={{ fontSize: 10, color: '#7A7A8A', lineHeight: 1.4 }}>Emisiones que salen de fuentes que Microsoft posee o controla: gas en datacenters, combustible de vehículos, fugas de refrigerantes.</div>
+        </div>
+        <div className="cbox" style={{ padding: '10px 14px' }}>
+          <div style={{ fontSize: 11, fontWeight: 700, color: '#50E6FF' }}>Scope 2 — Electricidad</div>
+          <div style={{ fontSize: 10, color: '#7A7A8A', lineHeight: 1.4 }}>Emisiones generadas por la electricidad que Microsoft compra. No las quema Microsoft, pero las consume.</div>
+        </div>
+        <div className="cbox" style={{ padding: '10px 14px' }}>
+          <div style={{ fontSize: 11, fontWeight: 700, color: '#FFB900' }}>Scope 3 — Cadena de valor</div>
+          <div style={{ fontSize: 10, color: '#7A7A8A', lineHeight: 1.4 }}>Todo lo demás: proveedores, viajes de empleados, y el uso que los clientes hacen de Azure/Teams/Xbox. Representa &gt;97% del total.</div>
+        </div>
+      </div>
 
       <div className="g2" style={{ marginBottom: 24 }}>
         <div className="cbox anim-fade anim-fade-d1">

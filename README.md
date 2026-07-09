@@ -106,7 +106,7 @@ Duración estimada: **12–15 minutos**. Cada uno habla ~6–7 minutos.
 
 **"Gracias. Ahora entramos en los números duros, todos verificados contra el reporte oficial de Microsoft 2025."**
 
-**"Empecemos por carbono. Este gráfico de barras muestra las emisiones divididas en tres alcances. Scope 1 son emisiones directas, Scope 2 las de electricidad comprada, y Scope 3 las de la cadena de valor —proveedores, clientes usando los productos, viajes, etc. Scope 3 representa más del 97% del total."**
+**"Empecemos por carbono. Las emisiones se dividen en tres alcances —están explicados en estas cajitas. Scope 1 son emisiones directas: lo que Microsoft quema o produce. Scope 2 es la electricidad que compran. Y Scope 3 es la cadena de valor: proveedores, viajes de empleados, y el uso que los clientes hacen de Azure o Xbox. Scope 3 representa más del 97% del total."**
 
 **"Dato clave: las emisiones directas —Scope 1 y 2— se redujeron 29.9% desde 2020. Eso es un logro real. PERO las emisiones totales aumentaron 23.4%. ¿Por qué? Porque Scope 3 subió 26%. La razón: el crecimiento masivo de datacenters para IA y cloud. Azure es el negocio que más crece y también el que más emisiones genera. Es la paradoja de Microsoft."**
 
