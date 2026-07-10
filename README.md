@@ -76,11 +76,30 @@ Duración estimada: **12–15 min**. Cada uno habla ~6–7 min.
 
 ### Speaker 1 — Vos empezás (vistas: Inicio → Aseguramiento → Calidad → Planeación)
 
-**▶️ Vista INICIO** (está abierta)
+**▶️ Arrancás sin hacer clic en nada todavía. Primero explicás QUÉ es RSC.**
 
 Decí algo así:
 
-> *"Hola. Hoy vamos a ver cómo Microsoft asegura que sus compromisos de responsabilidad social sean reales. Microsoft tiene 245 mil millones de dólares de ingresos y 228 mil empleados. Cuando una empresa así dice que va a ser 'carbon negative', tenemos que ver si es cierto o es solo marketing."*
+> *"Buenos días. Somos [nombre del equipo] y hoy vamos a presentar el sistema de aseguramiento de Responsabilidad Social Corporativa de Microsoft."*
+
+> *"Primero, un poco de teoría rápida para ubicarnos."*
+
+> *"La Responsabilidad Social Corporativa —RSC— es el compromiso voluntario de las empresas de actuar de forma ética, más allá de solo ganar plata. No es solo cumplir la ley, es hacer el bien."*
+
+> *"Hay cuatro principios básicos:"*
+
+Levantá la mano y contá con los dedos:
+
+> *"**1. Transparencia** — la empresa tiene que informar lo que hace, mostrando tanto lo bueno como lo malo."*
+> *"**2. Materialidad** — tiene que enfocarse en los temas que realmente importan para su negocio y su entorno."*
+> *"**3. Rendición de cuentas** — no basta con decir, hay que demostrar con datos y dejar que alguien externo verifique."*
+> *"**4. Mejora continua** — la RSC no es un proyecto de una vez, es un proceso que nunca termina."*
+
+> *"¿Por qué empezamos con esto? Porque el dashboard que hicimos analiza exactamente eso: qué tan transparente es Microsoft, si rinde cuentas, si mejora con el tiempo."*
+
+**▶️ Ahora recién señalá la pantalla.**
+
+> *"Arranquemos. Microsoft tiene 245 mil millones de dólares de ingresos y 228 mil empleados. Cuando una empresa así dice 'vamos a ser carbon negative', tenemos que ver si es real o es marketing."*
 
 Señalá los cuadritos de números en la pantalla:
 
@@ -90,19 +109,19 @@ Señalá los cuadritos de números en la pantalla:
 
 Decí:
 
-> *"Pero primero: ¿quién controla que estos números no sean inventados? Microsoft tiene una estructura clara. Satya Nadella es el CEO. Brad Smith es el presidente y supervisa todo. Melanie Nakagawa es la Chief Sustainability Officer. Y hay un comité del Board que solo ve temas ambientales y sociales."*
+> *"Empecemos por quién controla que no se inventen los números. Microsoft tiene una estructura clara. Satya Nadella es el CEO. Brad Smith es el presidente y supervisa todo. Melanie Nakagawa es la Chief Sustainability Officer. Y hay un comité del Board que solo ve temas ambientales y sociales."*
 
 Señalá el cuadro de "Aseguramiento Externo":
 
-> *"Lo más importante para la credibilidad: Deloitte audita las emisiones. No es una auditoría contable, pero un tercero independiente revisa los números."*
+> *"Lo más importante: Deloitte & Touche audita las emisiones de Microsoft. No es una auditoría contable completa, pero una empresa independiente revisa los números y confirma que son razonables."*
 
-> *"Microsoft además reporta bajo GRI, SASB, TCFD, CDP —los estándares internacionales más exigentes."*
+> *"Microsoft además reporta bajo GRI, SASB, TCFD, CDP —son los estándares internacionales más exigentes para medir sostenibilidad."*
 
 **▶️ Ahora hacé clic en "Calidad"**
 
 Decí:
 
-> *"Microsoft tiene certificación ISO 50001 para gestión de energía en sus datacenters. Reporta con GRI y SASB. Participa en CDP. Y si cambia la forma de medir, recalculan todo para atrás para que los números sean comparables."*
+> *"Microsoft tiene certificación ISO 50001 para gestión de energía en sus datacenters. Reporta con GRI y SASB. Participa en CDP. Y algo importante: si cambian la forma de medir, recalculan todos los datos viejos para que se pueda comparar año contra año."*
 
 **▶️ Ahora hacé clic en "Planeación"**
 
@@ -112,9 +131,9 @@ Decí:
 
 Señalá las barras de progreso de cada meta:
 
-> *"En carbono: 34 GW de renovables. En agua: 50 millones de m³ repuestos. En residuos: 88% de desvío. En ecosistemas: ya cumplieron."*
+> *"En carbono: 34 GW de renovables. En agua: 50 millones de m³ repuestos y 1.5 millones de personas con agua limpia. En residuos: 88% de desvío. En ecosistemas: ya cumplieron la meta."*
 
-> *"El progreso es real, pero hay desafíos. Ahora mi compañero va a mostrar los números duros."*
+> *"El progreso es real, pero el verdadero desafío está en los números. Ahora mi compañero va a mostrar los datos duros."*
 
 **✅ Hasta acá llegás vos. Pasá la palabra al Speaker 2.**
 
